@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/LXR-YOUTUBER-AMAL/VCPlayerBot /VCPlayerBot
+git clone https://github.com/psychokillar/VCPlayerBot /VCPlayerBot
 cd /VCPlayerBot
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
